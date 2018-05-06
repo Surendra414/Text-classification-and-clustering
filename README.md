@@ -2,5 +2,5 @@
 It demonstrates the example of text classification and text clustering using K-NN and K-Means models based on tf-idf features.
 
 # Installation
-Anaconda
-NLTK
+1.Anaconda
+2.NLTK
